@@ -91,15 +91,3 @@ To train the model (or re-train it), follow these steps:
 ## API Endpoints
 
 * `/predict` (POST): Receives a JSON with the key `text` and returns a JSON with the key `emotion` (the predicted emotion).
-
-## Future Improvements (Optional)
-
-* Improve the model's accuracy.
-* Add support for more emotions.
-* Implement unit tests.
-* Create a frontend to interact with the API.
-* Explore different model architectures.
-
-## Author (Optional)
-
-Your Name or GitHub Username
